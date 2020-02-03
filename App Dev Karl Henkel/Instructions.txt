@@ -1,0 +1,9 @@
+Summary: this was developed at Istudent academy and i used their server for the database.
+
+File "Task A Karl Henkel" is the car rental application.
+File "Task B Karl Henkel" is the testing of the project and demonstrations of the project.
+
+Steps:
+1.Restore the "Hire.BAK" file in SQL.(\App Dev Assignment Karl Henkel\Karl Henkel car rental App\Task A Karl Henkel)
+2.According to the comments in the "frmCars.cs", "frmSearch.cs and "App.config". Insert your own connection string in order to run application successfully.(\App Dev Assignment Karl Henkel\Karl Henkel car rental App\Task A Karl Henkel\CarsDatabase\CarsDatabase)
+ 
